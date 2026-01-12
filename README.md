@@ -1,2 +1,1 @@
-Attending Haechang middle school.
-Python, js, java, lua
+김태겸
